@@ -1,14 +1,14 @@
 {
-  "name": "day-50",
+  "name": "day-66",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "types": "modules",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"
   }
