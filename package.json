@@ -1,15 +1,15 @@
 {
-  "name": "q1",
+  "name": "seeing-the-world-18",
   "version": "1.0.0",
-  "main": "Q1.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
-    "@types/node": "^20.11.26"
+    "@types/node": "^20.11.20"
   }
 }
