@@ -1,5 +1,5 @@
 {
-  "name": "day-93",
+  "name": "day-96",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.12.2"
+  "dependencies": {
+    "inquirer": "^9.2.17"
   }
 }
