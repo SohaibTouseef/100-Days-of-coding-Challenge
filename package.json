@@ -1,8 +1,7 @@
 {
-  "name": "day-115",
+  "name": "day-139",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "Q139.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.18"
-  }
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {},
+  "description": ""
 }
