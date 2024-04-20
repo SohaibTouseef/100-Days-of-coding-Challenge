@@ -1,5 +1,5 @@
 {
-  "name": "q114",
+  "name": "day-115",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.12.5"
+    "inquirer": "^9.2.18"
   }
 }
